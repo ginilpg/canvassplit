@@ -6,7 +6,7 @@
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
     "resetOnSubmit": true,
-    "leftColumn": 3,
+    "leftColumn": 26,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"}
@@ -42,7 +42,7 @@
     "key": "ohoq4v5688",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
-    "rightColumn": 58,
+    "rightColumn": 64,
     "widgetId": "ib2j6913ss",
     "minWidth": 450,
     "label": "Password",
