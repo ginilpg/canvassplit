@@ -8,7 +8,7 @@
     "iconSVG": "/static/media/icon.5d6d2ac5cb1aa68bcd9b14f11c56b44a.svg",
     "searchTags": ["group"],
     "topRow": 19,
-    "bottomRow": 63,
+    "bottomRow": 65,
     "parentRowSpace": 10,
     "type": "FORM_WIDGET",
     "hideCard": false,
@@ -26,7 +26,7 @@
         "widgetName": "Canvas1",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 440,
+        "bottomRow": 460,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -72,6 +72,6 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 22,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 58,
+    "originalBottomRow": 63,
     "minDynamicHeight": 10
 }
