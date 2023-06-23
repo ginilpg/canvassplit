@@ -31,7 +31,7 @@
         "number",
         "textarea"
     ],
-    "bottomRow": 32,
+    "bottomRow": 33,
     "parentRowSpace": 10,
     "autoFocus": false,
     "hideCard": false,
@@ -43,7 +43,7 @@
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
     "rightColumn": 64,
-    "widgetId": "ib2j6913ss",
+    "widgetId": "9svk0kqrx9",
     "minWidth": 450,
     "label": "otp",
     "parentId": "n2z83ztfrj",
